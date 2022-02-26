@@ -10,6 +10,8 @@ namespace ExampleTest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("port 21/ FTP | exploitable = true");
+            Console.WriteLine("Repo1");
         }
     }
 }
